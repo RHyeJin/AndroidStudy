@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969442161645",
+    "project_id": "homeiot-d082f",
+    "storage_bucket": "homeiot-d082f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969442161645:android:3b75bb96aa54b850562de4",
+        "android_client_info": {
+          "package_name": "net.kcci.HomeIot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969442161645-7u6rht20bka6be7k62a1qjseghis6rrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRO-22jXYI2T9WTwxJIT8Z8H43mbkBQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969442161645-7u6rht20bka6be7k62a1qjseghis6rrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
